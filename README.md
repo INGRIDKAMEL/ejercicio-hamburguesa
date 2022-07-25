@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Blogr landing page - LatinasCodeCamp</h1>
 
-<p align="center"><img src="https://socialify.git.ci/alexcamachogz/blogr-latinascodecamp/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+
 
 
 ## Demo
@@ -24,4 +24,4 @@ Technologies used in the project:
 ## Author
 Ingrid Kamel - [@kamelingrid](https://www.twitter.com/kamelingrid)
 
-> Este es un ejercicio realizado por [alexcamachogz](https://www.twitter.com/kamelingrid) durante el Latinas Code Camp.
+> Este es un ejercicio realizado por [kamelingrid](https://www.twitter.com/kamelingrid) durante el Latinas Code Camp.
