@@ -2,7 +2,6 @@
 
 <p align="center"><img src="https://socialify.git.ci/alexcamachogz/blogr-latinascodecamp/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-Como parte del temario de LatinasCodeCamp resolví este ejercicio en clase para enseñar a las alumnas cómo aplicar responsive a la hora de maquetar sus aplicaciones web.
 
 ## Demo
 
@@ -17,12 +16,12 @@ Como parte del temario de LatinasCodeCamp resolví este ejercicio en clase para 
 Technologies used in the project:
 *   HTML
 *   CSS
+*   Javascript
 
 ## Useful resources
 *   [Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP)
-*   [Responsive Web Design](https://dev.to/alexcamachogz/responsive-web-design-3bhh)
 
 ## Author
-Alex Camacho - [@alexcamachogz](https://www.twitter.com/alexcamachogz)
+Ingrid Kamel - [@kamelingrid](https://www.twitter.com/kamelingrid)
 
-> Este es un ejercicio realizado por [alexcamachogz](https://www.twitter.com/alexcamachogz) durante el Latinas Code Camp para explicar conceptos de responsive y de diseño web.
+> Este es un ejercicio realizado por [alexcamachogz](https://www.twitter.com/kamelingrid) durante el Latinas Code Camp.
